@@ -1,0 +1,16 @@
+{
+  "name": "Koperasi Jasa Karyawan Elsewedy",
+  "short_name": "KopEEI",
+  "description": "Aplikasi Koperasi Simpan Pinjam PT. Elsewedy Electric Indonesia",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0D2137",
+  "theme_color": "#0D2137",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "/logo-koperasi.jpg", "sizes": "192x192", "type": "image/jpeg" },
+    { "src": "/logo-koperasi.jpg", "sizes": "512x512", "type": "image/jpeg" }
+  ],
+  "categories": ["finance", "productivity"],
+  "lang": "id"
+}
